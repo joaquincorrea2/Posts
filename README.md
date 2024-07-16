@@ -1,19 +1,4 @@
-# front
+# Posts
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Proyecto personal en donde desarrolle, consumiendo la api Posts-API, la interfaz para una web de creacion de posts con Vue.js. 
+API: https://github.com/joaquincorrea2/Posts-API
